@@ -8,7 +8,7 @@ The Design's Feautures:
 | Sampling Rate          | 16x                   |
 |  Divisor Value         | 977                   |
 | Core Utilization Ratio | 20%                   |
-| Area                   | 83.315* $94.035 μm^2$ |
+| Area                   | 83.315* 94.035 $μm^2$ |
   
 **_Description_** 
   --------------
