@@ -22,6 +22,7 @@ The Design's Feautures:
 
 * The line is normally high until we send the start bit which is equal to 0.
 * When we detect this 0 at the active edge of the original clock, we check it again at the middle of the bit duration again but relative to the new generated clock to know for sure that this is the declaration of the communication line.
-* 
+* After declaring the beginig of communication, data bits are sent followed by parity bit as a check followed by an end bit that declares the end of communication.
+
 
 
