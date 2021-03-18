@@ -1,12 +1,14 @@
 UART From RTL to GDS-II
 -----------------------
 The Design's Feautures:
-| Feauture       | value   |
-| -----------    | ------- |
-| Frequency      | 150 MHZ |
-| Baud Rate      | 9600    |
-| Sampling Rate  | 16x     |
-|  Divisor Value | 977     |
+| Feauture               |         value         |
+| -----------            | ------------          |
+| Frequency              | 150 MHZ               |
+| Baud Rate              | 9600                  |
+| Sampling Rate          | 16x                   |
+|  Divisor Value         | 977                   |
+| Core Utilization Ratio | 20%                   |
+| Area                   | 83.315* $94.035 μm^2$ |
   
 **_Description_** 
   --------------
